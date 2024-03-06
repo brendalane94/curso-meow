@@ -7,3 +7,4 @@ cd game
 python3 main.py
 ```
 # curso-python-pip
+"hola brenda"
